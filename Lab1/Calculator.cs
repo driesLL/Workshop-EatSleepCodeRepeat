@@ -10,7 +10,7 @@ namespace Lab1
     {
         public int Multiply(int valueLeft, int valueRight)
         {
-            throw new NotImplementedException();
+            return valueLeft * valueRight;
         }
     }
 }
